@@ -1,1 +1,1 @@
-rund this command: composer require chillerlan/php-qrcode
+composer require chillerlan/php-qrcode
